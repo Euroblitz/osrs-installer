@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Categories=Game;
+Encoding=UTF-8
+Name=Oldschool RuneScape
+Comment=Oldschool RuneScape Launcher
+Exec=java -Xmx1024m -Djava.class.path=/home/$USER/.jagex/runescape/bin/jagexappletviewer.jar -Dcom.jagex.config="http://oldschool.runescape.com/jav_config.ws" jagexappletviewer /home/$USER/.jagex/runescape/icons
+Icon=/home/$USER/.jagex/runescape/icons/jagexappletviewer.png
+Terminal=false
